@@ -1,10 +1,10 @@
-package com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm.removetasks;
+package com.kinisoftware.bdd.cucumberjvm.removetasks;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-import com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm.Task;
-import com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm.ToDoList;
+import com.kinisoftware.bdd.cucumberjvm.Task;
+import com.kinisoftware.bdd.cucumberjvm.ToDoList;
 
 import cucumber.annotation.en.Given;
 import cucumber.annotation.en.Then;

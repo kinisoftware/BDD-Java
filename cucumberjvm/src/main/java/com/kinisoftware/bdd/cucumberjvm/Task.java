@@ -1,4 +1,4 @@
-package com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm;
+package com.kinisoftware.bdd.cucumberjvm;
 
 public class Task {
 

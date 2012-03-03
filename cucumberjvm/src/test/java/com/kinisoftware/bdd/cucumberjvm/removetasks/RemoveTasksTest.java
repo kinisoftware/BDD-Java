@@ -1,4 +1,4 @@
-package com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm.removetasks;
+package com.kinisoftware.bdd.cucumberjvm.removetasks;
 
 
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm;
+package com.kinisoftware.bdd.cucumberjvm;
 
 import java.util.ArrayList;
 import java.util.List;

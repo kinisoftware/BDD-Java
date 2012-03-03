@@ -1,4 +1,4 @@
-package com.kinisoftware.bdd.com.kinisoftware.bdd.cucumberjvm.addtasks;
+package com.kinisoftware.bdd.cucumberjvm.addtasks;
 
 import org.junit.runner.RunWith;
 
