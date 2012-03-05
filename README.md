@@ -2,7 +2,7 @@ Frameworks BDD en Java
 ======================
 
 Comparativa de frameworks BDD en Java. Toda la info
-en el [post]()
+en el [post](http://kinisoftware.com/?p=389)
 
 Frameworks
 ----------
